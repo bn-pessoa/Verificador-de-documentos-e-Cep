@@ -1,2 +1,2 @@
-# Verificador-de-documentos-e-Cep
-Projeto da UC de Sistemas Distribuídos no modelo cilente-servidor que verifica validade de documentos e identifica endereço do CEP correspondente
+# Validador de documentos
+Projeto da UC de Sistemas Distribuídos no modelo cilente-servidor verifica a validade de 5 tipos de documentos e identifica endereço do CEP correspondente
